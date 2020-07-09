@@ -6,4 +6,4 @@
 - 👯 I’m looking to contribute in Open Source Projects.
 - 🤔 I’m looking for help who can help me get started with Open Source Projects.
 - 📫 How to reach me: abhishekkumargupta1207@gmail.com
-- ⚓ Drop by: linkedin.com/in/abhikrgupta/
+- ⚓ Drop by: https://www.linkedin.com/in/abhikrgupta/
