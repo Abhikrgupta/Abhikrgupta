@@ -2,6 +2,7 @@
 # Hi there 👋
 
 - 🔭 I’m currently working on ways to improvise myself.
+- 💻 I'm currently learning Flutter.
 - 🌱 I’m currently learning about ways to get into Machine Learning.
 - 👯 I’m looking to contribute in Open Source Projects.
 - 🤔 I’m looking for help who can help me get started with Open Source Projects.
