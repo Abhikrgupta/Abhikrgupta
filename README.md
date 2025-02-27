@@ -2,16 +2,16 @@
 # Hi there 👋, I'm Abhishek
 🔐 Security Engineer | Penetration Tester | Automation Enthusiast 
 
-I’m passionate about securing applications, automating security workflows, and vulnerability management. With 2+ years of experience in penetration testing at Deloitte, I’ve worked with banking and commodity clients, helping them strengthen their security posture.
+CEH v11 Certified Security Engineer with 2+ years of experience in Vulnerability Assessment and Penetration Testing (VAPT). Specialized in Web, API, and Mobile Security, leveraging both manual and automated security testing.
+
+🛠️ Technical Skills
+Security & VAPT: Web, API, Mobile Security, OWASP Top 10
+Automation: Security scripting, tool integrations
+Tools: BurpSuite, Nmap, Nessus, Qualys, Postman, Acunetix, Nuclei
+Programming: Python, C++
 
 🔭 Currently Working On
 🔄 Security Automation – Streamlining vulnerability management and patching
 🛡️ Application Security – Reviewing security risks and improving SDLC security
-
-⚡ Skills & Interests
-Security Engineering – Vulnerability management, patching, cloud security
-Penetration Testing – Web, API and Mobile security assessments
-Automation – Python, security tool integrations
-AppSec – Secure coding practices, threat modeling
 
 📫 Let's Connect!!
